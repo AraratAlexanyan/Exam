@@ -1,0 +1,16 @@
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #2e78ff;
+}
+
+a:focus {
+  color: #569eff;
+}
+
+a:visited {
+  color: black;
+}
